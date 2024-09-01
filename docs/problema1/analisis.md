@@ -50,7 +50,6 @@ Fecha del viaje (día del mes y día de la semana).
 Precio del boleto.
 Número de asiento asignado.
 
-Fin 
 
 
 ### Datos de Entrada:
@@ -83,7 +82,7 @@ Fin
 •  apellido: Apellido del usuario (entrada)
 •  ciudades: Lista de posibles ciudades (Medellín, Cartagena, Bogotá) 
 •  dias_1: Lista de días de la semana (lunes, martes, miércoles, jueves) 
-•  días_2: Lista de días de la semana (viernes, sábado, domingo) 
+•  dias_2: Lista de días de la semana (viernes, sábado, domingo) 
 •  ciudad_origen: Ciudad de origen del vuelo (entrada)
 •  ciudad_destino: Ciudad de destino del vuelo (entrada)
 •  dia_semana: Día de la semana en que se realiza el viaje (entrada)
