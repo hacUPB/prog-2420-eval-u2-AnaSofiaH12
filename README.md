@@ -8,5 +8,5 @@ ID:  000550158
 
 **Distribucion del repositorio:**
 Encontraras una carpeta llamada Documentos, alli estan situadas 2 carpetas, cada una de ellas hace parte de los dos problemas propuestos por el docente para la unidad 2 y tambien encontraras un archivo que esta destinado a la autoevaluacion. 
-En cada una de las carpetas de problema 1 y problema 2, podra visualizar 2 archivos, en uno de encuentra todo el analisis y el otro hace parte del pseudocodigo como tal.   
+En cada una de las carpetas del problema 1 y problema 2, podra visualizar 2 archivos, en uno se encuentra todo el analisis y el otro hace parte del pseudocodigo como tal.   
 
