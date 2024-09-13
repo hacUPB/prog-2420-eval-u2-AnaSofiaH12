@@ -7,7 +7,7 @@ Inicio
 
  //Bienvenida al usuario
     
-    Imprimir “T. Nombre, Apellido ¡Bienvenido a FastFast Airlines!" 
+    Imprimir “T. Nombre, Apellido ¡Bienvenido a Aeropink Airlines!" 
 
     Definir ciudades= [Medellín, Cartagena, Bogotá]
     Definir dias_1 = [lunes, martes, miércoles, jueves]
