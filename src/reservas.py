@@ -9,7 +9,7 @@ def main():
 
 
     print(f"{Genero},{nombre} {apellido},¡Bienvenid@ a AirPink Airlines!")
-    print(f"{Genero},{nombre} {apellido}, Por favor en sus repuestas no utilice tildes y siempre la primera letra debera ser en mayuscula")
+
 
     ciudades = ["Medellin","Bogota","Cartagena"]
     dias_1 = ["Lunes","Martes","Miercoles","Jueves"]
